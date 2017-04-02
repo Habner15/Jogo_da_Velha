@@ -1,0 +1,14 @@
+C:\Users\DJ-Habner\AppData\Local\Temporary Projects\Jogo_da_Velha\bin\Debug\Jogo_da_Velha.exe
+C:\Users\DJ-Habner\AppData\Local\Temporary Projects\Jogo_da_Velha\bin\Debug\Jogo_da_Velha.pdb
+C:\Users\DJ-Habner\AppData\Local\Temporary Projects\Jogo_da_Velha\obj\x86\Debug\Jogo_da_Velha.Properties.Resources.resources
+C:\Users\DJ-Habner\AppData\Local\Temporary Projects\Jogo_da_Velha\obj\x86\Debug\Jogo_da_Velha.csproj.GenerateResource.Cache
+C:\Users\DJ-Habner\AppData\Local\Temporary Projects\Jogo_da_Velha\obj\x86\Debug\Jogo_da_Velha.exe
+C:\Users\DJ-Habner\AppData\Local\Temporary Projects\Jogo_da_Velha\obj\x86\Debug\Jogo_da_Velha.pdb
+C:\Users\DJ-Habner\AppData\Local\Temporary Projects\Jogo_da_Velha\obj\x86\Debug\Jogo_da_Velha.Tela.resources
+D:\Documentos\Visual Studio 2010\Projects\Jogo_da_Velha\Jogo_da_Velha\obj\x86\Debug\Jogo_da_Velha.exe
+D:\Documentos\Visual Studio 2010\Projects\Jogo_da_Velha\Jogo_da_Velha\obj\x86\Debug\Jogo_da_Velha.pdb
+D:\Documentos\Visual Studio 2010\Projects\Jogo_da_Velha\Jogo_da_Velha\bin\Debug\Jogo_da_Velha.exe
+D:\Documentos\Visual Studio 2010\Projects\Jogo_da_Velha\Jogo_da_Velha\bin\Debug\Jogo_da_Velha.pdb
+D:\Documentos\Visual Studio 2010\Projects\Jogo_da_Velha\Jogo_da_Velha\obj\x86\Debug\Jogo_da_Velha.Tela.resources
+D:\Documentos\Visual Studio 2010\Projects\Jogo_da_Velha\Jogo_da_Velha\obj\x86\Debug\Jogo_da_Velha.Properties.Resources.resources
+D:\Documentos\Visual Studio 2010\Projects\Jogo_da_Velha\Jogo_da_Velha\obj\x86\Debug\Jogo_da_Velha.csproj.GenerateResource.Cache
